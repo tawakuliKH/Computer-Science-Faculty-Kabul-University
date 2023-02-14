@@ -257,5 +257,4 @@ I would like to thank to Microverse, always inspiring students to develope real 
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://github.com/tawakuliKH/Computer-Science-Faculty-Kabul-University/) 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
