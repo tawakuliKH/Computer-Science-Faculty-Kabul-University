@@ -98,11 +98,11 @@ It has all information about the faculty departments, faculty teachers, faculty 
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a href="" name="live-demo"></a>
 
 <!-- > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+- [Live Demo Link](https://tawakuliKH.github.io/Computer-Science-Ffaculty-Kabul-University) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +110,6 @@ It has all information about the faculty departments, faculty teachers, faculty 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -156,6 +155,7 @@ Example command:
 
 To run the project, execute the following command:
 
+
 <!--
 Example command:
 
@@ -198,15 +198,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tawkuliKH](https://github.com/tawakuliKH)
+- Twitter: [@Khadim]([https://twitter.com/twitterhandle](https://twitter.com/KhadimTawakuli))
+- LinkedIn: [LinkedIn]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/morteza-tawakuli-904818170))
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,11 +209,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Make dynamic web pages, use database**
+- [ ] **Develope Appoitnent Booking Section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,17 +221,16 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/tawakuliKH/Computer-Science-Faculty-Kabul-University/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+<!-- SUPPORT -->-
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please leave a comment and make me happy. 🐤
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,9 +238,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank to Microverse, always inspiring students to develope real world projects and learn new technologies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,7 +247,6 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
