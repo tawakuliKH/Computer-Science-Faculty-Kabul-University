@@ -199,7 +199,7 @@ Example:
 👤 **Author1**
 
 - GitHub: [@tawkuliKH](https://github.com/tawakuliKH)
-- Twitter: [@KhadimTawakuli](https://twitter.com/KhadimTawakuli))
+- Twitter: [@KhadimTawakuli](https://twitter.com/KhadimTawakuli)
 - LinkedIn: [morteza-tawakuli](https://www.linkedin.com/in/morteza-tawakuli-904818170)
 
 
