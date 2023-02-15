@@ -70,18 +70,19 @@
   background-image: url('../images/background-desktop2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 550px;
   padding-top: 70px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
 }
 
 .heading {
   color: #ec5242;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .heading-desc {
   color: #ec5242;
-  font-size: 60px;
+  font-size: 40px;
   font-family: 'Lato';
   font-weight: bold;
 }
@@ -108,17 +109,12 @@
 }
 
 .programs {
-  background-color: #2B2B2B;
-  height: 400px;
-  background-image: url('../images/pattern.svg');
-}
-
-
-.programs {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #2B2B2B;
+  background-image: url('../images/pattern.svg');
 }
 
 .program-title {
@@ -130,6 +126,7 @@
   font-size: 18px;
   font-weight: bold;
   gap: 10px;
+  margin-top: 40px;
 }
 
 .span {
@@ -139,14 +136,21 @@
 }
 
 .program-image {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
 }
 
-
+.program-cards {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .card-title {
   color: #ec5242;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
 }
 
@@ -155,4 +159,29 @@
   display: flex;
   text-align: center;
   margin: 10px;
+}
+
+.program-desc {
+  width: 150px;
+  background: #212529;
+}
+
+.program-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-desc {
+  font-size: 11px;
+}
+
+.more {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.see-more {
+  color: #fff;
 }
