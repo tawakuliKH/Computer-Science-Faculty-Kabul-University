@@ -138,6 +138,7 @@
 .program-image {
   width: 40px;
   height: 40px;
+  margin: 10px;
 }
 
 .program-cards {
@@ -185,3 +186,58 @@
 .see-more {
   color: #fff;
 }
+
+.teachers {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.teachers-content {
+  margin-top: 200px;
+}
+
+.teacher-img-bg {
+  width: 200px;
+  height: 150px;
+  background-image: url('../images/chess.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.teacher-image {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.teacher-card {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin: 0;
+}
+
+.teacher-name {
+  font-weight: bold;
+  margin-top: 17px;
+}
+
+.teacher-position {
+  color: #ec5242;
+}
+
+.teacher-desc {
+  display: flex;
+  flex-direction: column;
+}
+
+.teacher-sep {
+    width: 30px;
+    height: 2px;
+    border: 1px solid gray;
+}
+
+
