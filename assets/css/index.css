@@ -213,6 +213,7 @@
 
 .teacher-image {
   width: 90%;
+  height: 70%;
   margin-top: 20px;
   margin-left: 20px;
 }
@@ -245,6 +246,8 @@
 }
 
 .partners {
+  display: flex;
+  flex-direction: column;
   margin-top: 30px;
   background: #212529;
   height: 100%;
@@ -297,6 +300,10 @@
 .humberger-image {
   width: 30px;
   height: 30px;
+}
+
+.btn-show {
+  display: none;
 }
 
 @media (max-width: 764px) {
@@ -360,6 +367,7 @@
 
   .btn-show {
     width: 100%;
+    display: block;
     text-align: center;
     border: 1px solid gray;
     margin-bottom: 50px;
