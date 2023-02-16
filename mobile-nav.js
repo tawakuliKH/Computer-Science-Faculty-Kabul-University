@@ -8,4 +8,3 @@ humberger.addEventListener('click', () => {
 cross.addEventListener('click', () => {
   navMobile.style.display = 'none';
 });
-console.log('hi')
