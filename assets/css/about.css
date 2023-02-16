@@ -170,15 +170,19 @@
   color: #fff;
 }
 
+.footer-about-title {
+  width: 40%;
+}
+
 .no-mobile {
   display: none;
 }
 
 .footer {
-  display: nones;
+  display: none;
 }
 
-@media (max-width:764px){
+@media (max-width: 764px) {
   .header-about {
     display: none;
   }
@@ -186,7 +190,7 @@
   .navbar {
     display: none;
   }
-  
+
   .no-mobile {
     display: block;
   }
