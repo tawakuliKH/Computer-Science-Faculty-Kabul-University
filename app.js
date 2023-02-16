@@ -60,3 +60,12 @@ teachers.forEach((item) => {
   }
   iterator += 1;
 });
+
+const showBtn = document.querySelector('.btn-show');
+const noMobile = Array.from(document.querySelectorAll('.no-mobile'));
+showBtn.addEventListener('click', () => {
+  for (let i = 0; i < noMobile.length; i += 1) {
+    noMobile[i].style.display = 'flex';
+  }
+  showBtn.style.display = 'none';
+});
