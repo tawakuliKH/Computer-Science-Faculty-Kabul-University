@@ -32,20 +32,20 @@
   text-align: center;
   color: #ec5242;
   font-size: 40px;
-  font-family: 'Lato';
+  font-family: 'Lato', sans-serif;
   font-weight: bold;
 }
 
 .heading-description-about {
   text-align: center;
   width: 70%;
-  background-color: #DFD8D7;
+  background-color: #dfd8d7;
   padding: 2px;
 }
 
 .heading-desc-fill-about {
   text-align: center;
-  background-color: #ECE8E8;
+  background-color: #ece8e8;
   border: 2px solid white;
   padding: 5px;
   font-size: 16px;
