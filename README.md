@@ -199,8 +199,8 @@ Example:
 👤 **Author1**
 
 - GitHub: [@tawkuliKH](https://github.com/tawakuliKH)
-- Twitter: [@KhadimTawakuli]([https://twitter.com/twitterhandle](https://twitter.com/KhadimTawakuli))
-- LinkedIn: [morteza-tawakuli]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/morteza-tawakuli-904818170))
+- Twitter: [@KhadimTawakuli](https://twitter.com/KhadimTawakuli)
+- LinkedIn: [morteza-tawakuli](https://www.linkedin.com/in/morteza-tawakuli-904818170)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
