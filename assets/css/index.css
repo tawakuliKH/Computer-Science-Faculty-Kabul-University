@@ -1,0 +1,290 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+.social {
+  background-color: #212529;
+  height: 30px;
+  padding-top: 2px;
+}
+
+.social-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-list li {
+  list-style: none;
+  font-size: 16px;
+}
+
+.social-list a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}
+
+.social-list a:hover {
+  color: #ec5242;
+}
+
+.main {
+  background-color: #fff;
+}
+
+.menu {
+  width: 60%;
+}
+
+.menu-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.menu-item li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.menu-item li:nth-child(6) {
+  border: 5px solid #ec5242;
+  padding: 5px;
+  font-weight: bold;
+  color: #ec5242;
+}
+
+.menu-item li:nth-child(1) {
+  color: #ec5242;
+}
+
+.content {
+  background-image: url('../images/background-desktop2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 70px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.heading {
+  color: #ec5242;
+  font-size: 30px;
+}
+
+.heading-desc {
+  color: #ec5242;
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+.heading-description {
+  width: 50%;
+  background-color: #dfd8d7;
+  padding: 2px;
+}
+
+.heading-desc-fill {
+  background-color: #ece8e8;
+  border: 2px solid white;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.time {
+  margin-top: 20px;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.programs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2b2b2b;
+  background-image: url('../images/pattern.svg');
+}
+
+.btn-join {
+  background-color: #ec5242;
+  border-radius: 10px;
+  display: none;
+}
+
+.program-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.span {
+  width: 70px;
+  height: 2px;
+  background-color: #ec5242;
+}
+
+.program-image {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+
+.program-cards {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-title {
+  color: #ec5242;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card-desc {
+  color: #fff;
+  display: flex;
+  text-align: center;
+  margin: 10px;
+  font-size: 11px;
+}
+
+.program-desc {
+  width: 150px;
+  background: #212529;
+}
+
+.program-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.more {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.see-more {
+  color: #fff;
+}
+
+.teachers {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.teachers-content {
+  margin-top: 200px;
+}
+
+.teacher-img-bg {
+  width: 200px;
+  height: 150px;
+  background-image: url('../images/chess.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.teacher-image {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.teacher-card {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin: 0;
+}
+
+.teacher-name {
+  font-weight: bold;
+  margin-top: 17px;
+}
+
+.teacher-position {
+  color: #ec5242;
+}
+
+.teacher-desc {
+  display: flex;
+  flex-direction: column;
+}
+
+.teacher-sep {
+  width: 30px;
+  height: 2px;
+  border: 1px solid gray;
+}
+
+.partners {
+  margin-top: 30px;
+  background: #212529;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 40px;
+}
+
+.partner-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.partner-image {
+  width: 100px;
+  height: 100px;
+}
+
+.footer {
+  width: 100%;
+  height: 160px;
+}
+
+.footer-content {
+  margin-top: 70px;
+}
+
+.logo-footer {
+  width: 100%;
+}
+
+.footer-cont {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+
+.footer-text {
+  width: 80%;
+}
