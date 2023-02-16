@@ -74,3 +74,23 @@
   color: #ec5242;
   font-size: 20px;
 }
+
+.ku-logo {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-desc {
+  width: 70%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.logo-image {
+  border: 1px solid bisque;
+  padding: 10px;
+}
