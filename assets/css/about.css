@@ -169,3 +169,49 @@
 .footer-text {
   color: #fff;
 }
+
+.footer-about-title {
+  width: 40%;
+}
+
+.no-mobile {
+  display: none;
+}
+
+.footer {
+  display: none;
+}
+
+@media (max-width: 764px) {
+  .header-about {
+    display: none;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .no-mobile {
+    display: block;
+  }
+
+  .no-mobile-footer {
+    display: none;
+  }
+
+  .footer {
+    display: block;
+  }
+
+  .footer-text {
+    color: black;
+  }
+
+  .no-mobile-always {
+    display: none;
+  }
+
+  .content-about {
+    padding-top: 0;
+  }
+}
