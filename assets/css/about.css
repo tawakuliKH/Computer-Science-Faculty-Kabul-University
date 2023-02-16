@@ -6,3 +6,71 @@
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
 }
+
+.content-about {
+  background-image: url('../images/background-desktop2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.contents-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-about {
+  text-align: center;
+  color: #ec5242;
+  font-size: 30px;
+}
+
+.heading-desc-about {
+  text-align: center;
+  color: #ec5242;
+  font-size: 40px;
+  font-family: 'Lato';
+  font-weight: bold;
+}
+
+.heading-description-about {
+  text-align: center;
+  width: 70%;
+  background-color: #DFD8D7;
+  padding: 2px;
+}
+
+.heading-desc-fill-about {
+  text-align: center;
+  background-color: #ECE8E8 ;
+  border: 2px solid white;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.contact-section {
+  margin-top: 80px;
+}
+
+.url {
+  margin-top: -40px;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.home-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.url-arrow {
+  color: #ec5242;
+  font-size: 20px;
+}
