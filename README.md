@@ -98,7 +98,7 @@ It has all information about the faculty departments, faculty teachers, faculty 
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a href="" name="live-demo"></a>
+## 🚀 Live Demo <a href="https://tawakulikh.github.io/Computer-Science-Faculty-Kabul-University/" name="live-demo">Watch live Demo Here</a>
 
 <!-- > Add a link to your deployed project.
 
