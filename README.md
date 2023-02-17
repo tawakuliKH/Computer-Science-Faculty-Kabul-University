@@ -99,11 +99,7 @@ It has all information about the faculty departments, faculty teachers, faculty 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo 
-<a href="https://tawakulikh.github.io/Computer-Science-Faculty-Kabul-University/" name="live-demo">Watch live Demo Here</a>
-
-<!-- > Add a link to your deployed project.
-
-- [Live Demo Link](https://tawakuliKH.github.io/Computer-Science-Ffaculty-Kabul-University) -->
+<a target='_blank' href="https://tawakulikh.github.io/Computer-Science-Faculty-Kabul-University/" name="live-demo">Watch live Demo Here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,17 +114,16 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+1. install git first
 
 ### Setup
 
 Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:tawakuliKH/Computer-Science-Faculty-Kabul-University.git
+```
 
 <!--
 Example commands:
@@ -141,7 +136,10 @@ Example commands:
 
 ### Install
 
-Install this project with:
+```sh
+  cd my-folder
+  git clone git@github.com:tawakuliKH/Computer-Science-Faculty-Kabul-University.git
+```
 
 <!--
 Example command:
@@ -152,42 +150,6 @@ Example command:
 ```
 --->
 
-### Usage
-
-To run the project, execute the following command:
-
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,6 +203,8 @@ If you like this project please leave a comment and make me happy. 🐤
 
 
 I would like to thank to Microverse, always inspiring students to develope real world projects and learn new technologies.
+
+I would also like to thanks Cindy Shin the author of the original design of this <a target='-blank' href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">template"</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

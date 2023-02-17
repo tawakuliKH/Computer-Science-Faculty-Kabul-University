@@ -22,6 +22,18 @@ const teachers = [{
   teacherBio: 'Dr. Ali Mohammadi has gained bachelors in Japan and have many reasearchs published.',
   teacherImage: 'assets/images/ali.jpg',
 },
+{
+  teacherName: 'Ramazan Ali Bahrami',
+  teacherPosition: 'Teacher in KU, Software Developer in netlinks',
+  teacherBio: 'Dr. Ramazan Ali Bahrami has gained bachelors in Japan and have many reasearchs published.',
+  teacherImage: 'assets/images/bahrami.jpeg',
+},
+{
+  teacherName: 'Morteza Tawakuli',
+  teacherPosition: 'Professor in Kabul University, Freelancer',
+  teacherBio: 'Dr. Morteza Tawakuli has gained bachelors in Japan and have many reasearchs published.',
+  teacherImage: 'assets/images/morteza.jpg',
+},
 ];
 
 const teacherDiv = document.querySelector('.teachers-profile');
