@@ -89,17 +89,17 @@ It has all information about the faculty departments, faculty teachers, faculty 
 
 ### Key Features <a name="key-features"></a>
 
-- **Mobile first approach**
 - **Dynamic content of teachers and instructor**
 - **Responsive Mobile menu**
-- **Responsive we pages for all screen sizes**
+- **Responsive web pages for all screen sizes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo 
-<a target='_blank' href="https://tawakulikh.github.io/Computer-Science-Faculty-Kabul-University/" name="live-demo">Watch live Demo Here</a>
+<a target='_blank' href="https://tawakulikh.github.io/Computer-Science-Faculty-Kabul-University/" name="live-demo">Watch live Demo</a>
+<a target='_blank' href="" name="live-demo">Project Presentation, Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,7 +204,7 @@ If you like this project please leave a comment and make me happy. 🐤
 
 I would like to thank to Microverse, always inspiring students to develope real world projects and learn new technologies.
 
-I would also like to thanks Cindy Shin the author of the original design of this <a target='-blank' href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">template"</a>.
+I would also like to thanks Cindy Shin the author of the original design of this <a target='_blank' href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">template</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
